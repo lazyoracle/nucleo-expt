@@ -1,5 +1,4 @@
-//Control Pins on the Nucleo F746ZG. Changes made here should also reflect in
-//Google Drive Nucleo Pin Map
+//Control Pins on the Nucleo F746ZG
 #define Pin_LCWP PC_6
 #define Pin_RF_SW_1 PB_15
 #define Pin_RF_SW_2 PB_13
